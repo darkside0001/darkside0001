@@ -11,6 +11,8 @@
 ### What I work with
 
 ![Linux](https://img.shields.io/badge/Linux-111?logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111?logo=gnubash&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-111?logo=gnubash&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-111?logo=caddy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/SQL-111?logo=postgresql&logoColor=white)
@@ -24,6 +26,15 @@
 - Google: Connect and Protect: Networks and Network Security (2023)
 - IBM: Introduction to Cybersecurity Careers (2024)
 - Microsoft: Build a Computer Vision App with Azure Cognitive Services (2023)
+
+### Open-source security tools
+
+| Tool | What it does |
+|---|---|
+| [**linux-hardening-audit**](https://github.com/darkside0001/linux-hardening-audit) | Bash. Read-only CIS-style Linux audit (SSH, accounts, sudo, permissions, sysctl, firewall, updates) with a score and a fix for every finding |
+| [**ssh-bruteforce-detector**](https://github.com/darkside0001/ssh-bruteforce-detector) | Python. Detects brute force, password spraying and successful logins after failures in auth logs, mapped to MITRE ATT&CK |
+| [**web-sec-check**](https://github.com/darkside0001/web-sec-check) | Python. Grades a site's TLS, certificate, security headers and cookies from A+ to F, usable as a CI gate |
+| [**nmap-report**](https://github.com/darkside0001/nmap-report) | Python. Turns nmap XML into HTML/Markdown reports, flags risky exposed services (incl. CCTV DVRs) and diffs scans over time |
 
 ### Selected work
 
