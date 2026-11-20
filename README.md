@@ -5,7 +5,7 @@
 - 🔐 Looking for a role in **cybersecurity**: security operations, pentesting, infrastructure security
 - 💼 2 years as Wialon Specialist & IT Security Engineer at Track Monitoring Service (Uzbekistan)
 - 🛠️ Freelance: server security audits, CRM development, Wialon GPS telematics
-- 🌐 Portfolio: [darkside0001.github.io](https://darkside0001.github.io)
+- 🌐 Portfolio: [darkside0001.github.io](https://darkside0001.github.io) · [CV (PDF)](https://darkside0001.github.io/Razim_Kudaybergenov_CV.pdf)
 - 📫 [Email](mailto:razim200112@gmail.com) · [Telegram](https://t.me/rafael_QQ) · [Freelancer](https://www.freelancer.com/u/razimk1)
 
 ### What I work with
