@@ -1,6 +1,6 @@
 <h1>Hi, I'm Razim Kudaybergenov 👋</h1>
 
-**MSc Cyber Security student at Asia Pacific University (Malaysia) · Fortinet NSE 1–2 · Certified Wialon Specialist L4.** I audit and harden Linux servers and web platforms, and I build the backend systems I secure.
+**MSc Cyber Security student at Asia Pacific University (Malaysia) · Fortinet NSE 1–3 · Certified Wialon Specialist L4.** I audit and harden Linux servers and web platforms, and I build the backend systems I secure.
 
 - 🔐 Looking for a role in **cybersecurity**: security operations, pentesting, infrastructure security
 - 💼 2 years as Wialon Specialist & IT Security Engineer at Track Monitoring Service (Uzbekistan)
@@ -16,6 +16,14 @@
 ![PostgreSQL](https://img.shields.io/badge/SQL-111?logo=postgresql&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-111?logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111?logo=git&logoColor=white)
+
+### Certifications
+
+- Fortinet NSE 1, 2 & 3 Certified in Cybersecurity (2026)
+- Certified Wialon Specialist, Level 4, Gurtam (2026)
+- Google: Connect and Protect: Networks and Network Security (2023)
+- IBM: Introduction to Cybersecurity Careers (2024)
+- Microsoft: Build a Computer Vision App with Azure Cognitive Services (2023)
 
 ### Selected work
 
