@@ -31,6 +31,7 @@
 
 | Tool | What it does |
 |---|---|
+| [**soc-home-lab**](https://github.com/darkside0001/soc-home-lab) | Wazuh SOC home lab in Docker: a monitored victim, a scripted SSH attack chain, and 14 custom detection rules mapped to MITRE ATT&CK, each verified against the real Wazuh engine in CI |
 | [**linux-hardening-audit**](https://github.com/darkside0001/linux-hardening-audit) | Bash. Read-only CIS-style Linux audit (SSH, accounts, sudo, permissions, sysctl, firewall, updates) with a score and a fix for every finding |
 | [**ssh-bruteforce-detector**](https://github.com/darkside0001/ssh-bruteforce-detector) | Python. Detects brute force, password spraying and successful logins after failures in auth logs, mapped to MITRE ATT&CK |
 | [**web-sec-check**](https://github.com/darkside0001/web-sec-check) | Python. Grades a site's TLS, certificate, security headers and cookies from A+ to F, usable as a CI gate |
