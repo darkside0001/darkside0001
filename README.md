@@ -25,6 +25,7 @@
 ### Certifications
 
 - Fortinet NSE 1, 2 & 3 Certified in Cybersecurity (2026)
+- Centri: Introduction to OSINT (2026)
 - Certified Wialon Specialist, Level 4, Gurtam (2026)
 - Google: Connect and Protect: Networks and Network Security (2023)
 - IBM: Introduction to Cybersecurity Careers (2024)
