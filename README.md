@@ -48,6 +48,13 @@
 | [**web-sec-check**](https://github.com/darkside0001/web-sec-check) | Python. Grades a site's TLS, certificate, security headers and cookies from A+ to F, usable as a CI gate |
 | [**nmap-report**](https://github.com/darkside0001/nmap-report) | Python. Turns nmap XML into HTML/Markdown reports, flags risky exposed services (incl. CCTV DVRs) and diffs scans over time |
 
+### Fleet telematics (Wialon)
+
+| Tool | What it does |
+|---|---|
+| [**wialon-fleet-alerts**](https://github.com/darkside0001/wialon-fleet-alerts) | Python service on the Wialon Remote API (avl_evts): alerts for silent trackers, overspeed, fuel drains while parked (LLS calibration + median filter), power cuts, GPS loss and geofence exits. Outbox delivery to Telegram and HMAC-signed webhooks, FastAPI for acknowledging alerts, Prometheus metrics, Docker, 79 tests |
+| [**wialon-tools**](https://github.com/darkside0001/wialon-tools) | Python CLI: fleet health checks (silent units, duplicate IMEI/SIM), fuel calibration table export/validation/conversion, report export |
+
 ### Selected work
 
 | Project | What it is |
