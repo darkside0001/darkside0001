@@ -15,6 +15,9 @@
 ![Bash](https://img.shields.io/badge/Bash-111?logo=gnubash&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-111?logo=gnubash&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-111?logo=caddy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111?logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-111?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-111?logo=grafana&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/SQL-111?logo=postgresql&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-111?logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111?logo=git&logoColor=white)
@@ -27,12 +30,20 @@
 - IBM: Introduction to Cybersecurity Careers (2024)
 - Microsoft: Build a Computer Vision App with Azure Cognitive Services (2023)
 
+### Security engineering projects
+
+| Project | What it shows |
+|---|---|
+| [**infra-security-monitoring**](https://github.com/darkside0001/infra-security-monitoring) | Hardened web stack in Docker: Caddy + TLS, segmented networks, nftables firewall, Prometheus/Alertmanager, Loki log-based detections (MITRE ATT&CK), encrypted restic backups with automatic restore tests and a DR drill. STRIDE threat model, ADRs, runbook, 41 end-to-end checks in CI |
+| [**CRM API pentest**](https://github.com/darkside0001/crm-demo/blob/main/docs/pentest-report.md) | Authenticated OWASP API Top 10 pentest of my own [crm-demo](https://github.com/darkside0001/crm-demo) API: 8 findings (CVSS up to 6.8), all fixed, retested to 0, with a regression test per finding |
+| [**Linux hardening, before/after**](https://github.com/darkside0001/linux-hardening-audit/blob/main/docs/before-after-report.md) | `harden.sh` with dry run, backups and rollback took an insecure Ubuntu VPS lab from 44/100 to 98/100, with SSH key login checked after every run |
+
 ### Open-source security tools
 
 | Tool | What it does |
 |---|---|
 | [**soc-home-lab**](https://github.com/darkside0001/soc-home-lab) | Wazuh SOC home lab in Docker: a monitored victim, a scripted SSH attack chain, and 15 custom detection rules mapped to MITRE ATT&CK, each verified against the real Wazuh engine in CI |
-| [**linux-hardening-audit**](https://github.com/darkside0001/linux-hardening-audit) | Bash. Read-only CIS-style Linux audit (SSH, accounts, sudo, permissions, sysctl, firewall, updates) with a score and a fix for every finding |
+| [**linux-hardening-audit**](https://github.com/darkside0001/linux-hardening-audit) | Bash. CIS-style Linux audit (SSH, accounts, sudo, permissions, sysctl, firewall, updates) with a score and a fix for every finding, plus a safe `harden.sh` |
 | [**ssh-bruteforce-detector**](https://github.com/darkside0001/ssh-bruteforce-detector) | Python. Detects brute force, password spraying and successful logins after failures in auth logs, mapped to MITRE ATT&CK |
 | [**web-sec-check**](https://github.com/darkside0001/web-sec-check) | Python. Grades a site's TLS, certificate, security headers and cookies from A+ to F, usable as a CI gate |
 | [**nmap-report**](https://github.com/darkside0001/nmap-report) | Python. Turns nmap XML into HTML/Markdown reports, flags risky exposed services (incl. CCTV DVRs) and diffs scans over time |
